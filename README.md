@@ -37,11 +37,18 @@ requests
 ```
 # Installation
 ```
-$ apt update && apt upgrade
-$ pkg update;pkg install python2
+$ pkg install update && pkg install upgrade
+$ pkg install python2
 $ git clone https://github.com/JawaTengahXploit1337/SpamBrutal
 $ cd SpamBrutal
 $ pip2 install requests
 $ python2 main.py
 ```
-Ketik ```git pull``` untuk mengupdate script
+
+# SIMPLE INSTALLER
+```
+$ pkg install upgrade && pkg install update && pkg install python2 && pkg install git && git clone https://github.com/JawaTengahXploit1337/SpamBrutal && cd SpamBrutal && pip2 install requests && python2 main.py
+```
+# UPDATE SCRIPT
+
+ ```git pull``` untuk mengupdate script
